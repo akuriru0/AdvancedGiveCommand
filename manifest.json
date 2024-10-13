@@ -1,0 +1,26 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "ベータAPIを有効にしてください。",
+    "name": "advanced give command",
+    "uuid": "248799ef-3fb5-415a-bed3-08a5eba75057",
+    "version": [ 1, 0, 0 ],
+    "min_engine_version": [ 1, 21, 31 ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "script",
+      "language": "javascript",
+      "uuid": "5b96abcf-7b4c-4d1e-972a-d3c377c9266d",
+      "version": [ 1, 0, 0 ],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "2.0.0-alpha"
+    }
+  ]
+}
