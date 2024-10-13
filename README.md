@@ -6,3 +6,4 @@
   ・名前の設定
   ・エンチャントの設定
   ・DynamicPropertyの設定
+> a
