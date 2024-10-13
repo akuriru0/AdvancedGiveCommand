@@ -9,3 +9,4 @@
 
 ## 使い方  
 /scriptevent advancedgive:item 要素1;要素2;要素3;要素4  
+> 要素
