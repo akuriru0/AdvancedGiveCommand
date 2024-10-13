@@ -8,5 +8,8 @@
 ・DynamicPropertyの設定  
 
 ## 使い方  
-/scriptevent advancedgive:item 要素1;要素2;要素3;要素4  
-> 要素
+/scriptevent advancedgive:item 情報1;情報2;情報3;情報4  
+> 設定できる情報
+> 
+・typeid=　"diamond"などのアイテムのid  
+
